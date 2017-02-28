@@ -1,0 +1,1 @@
+Programming Language: python Version: python 3.5.2Execution guidelines:* Change directory to the folder containing the program files* Run the program by giving the name of the input file as the command line argument as follows,      Python3 main.py “file_name.txt”
